@@ -1,5 +1,5 @@
 #Lien vers le site : *(https://solicode.co/version2/)*
-#Ce projet est réalisé dans le cadre d'un brief projet pendent la formation.
+# Ce projet est réalisé dans le cadre d'un brief projet pendent la formation.
 
 	- HAMIDOUCHE Asmae
 	- BOUCHLOUCH Yassin
@@ -8,7 +8,7 @@
 	- SEBBAR Najlae
 	- DAHRI Fatima
 
-##Encadrement :
+## Encadrement :
 
 - ES-SARRAJ Fouad
 - BOUZIAN Imane
